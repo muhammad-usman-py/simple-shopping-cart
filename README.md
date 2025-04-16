@@ -66,12 +66,6 @@ Your total bill with 18% tax on items above 500 is 2571.9 Rs/-
 ```
 
 ---
-
-## 📸 Thumbnail Preview
-
-> *(Attach the thumbnail here or drag it in GitHub README)*  
-`![Smart Cart Thumbnail](thumbnail.png)`
-
 ---
 
 ## 📣 Author
